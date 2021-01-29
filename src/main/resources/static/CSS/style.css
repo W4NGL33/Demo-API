@@ -1,0 +1,33 @@
+
+  a{
+  text-decoration:none;
+  }
+  a:hover{
+  text-decoration: underline;
+  color: red;
+  background-color:white;
+  }
+  hr{
+  border-style: dashed;
+  color: red;
+  }
+  .main{
+  background-color:white;
+  margin-top:20px;
+  opacity:.9;
+  }
+  .nav{
+  font-size: 20px;
+  font-family:tahoma;
+  color: brown;
+  background-image: url(images/solid-green-background.jpg);
+  height-top:100px;
+  }
+  #footnote{
+  //background-color:blue;
+  color:red;
+  font-size:20px;
+  width:100%;
+  background-image: url(images/solid-green-background.jpg);
+  }
+  
